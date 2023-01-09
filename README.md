@@ -1,6 +1,8 @@
 # PLATFORM GAME
 THIS IS OUR UNDERWATER PLATFORM GAME
+
 Environment:
+
 •	The Environment includes Sea, Fishes, Shark, Platforms and treasures.
 
 •	There are death traps in the sea as well.
@@ -9,6 +11,7 @@ Environment:
 
 
 Gameplay:
+
 •	The user has to collect all treasures present in level.
 
 •	The path is puzzling and if user falls then he is taken back to starting position.
@@ -22,11 +25,13 @@ Gameplay:
  
 
 Non-Gameplay:
+
 •	Sea fishes have been used from asset store kit.
 
 •	Chest is third party model taken from asset store.
 
 Audio-Visual:
+
 •	Post Processing.
 •	Camera bloom and effects.
 •	Animations.
